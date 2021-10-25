@@ -1,0 +1,26 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ByJumping/Node.JS_GB.git"
+  },
+  "author": "Aleksey Pravdin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ByJumping/Node.JS_GB/issues"
+  },
+  "homepage": "https://github.com/ByJumping/Node.JS_GB#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.1"
+  }
+}
