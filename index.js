@@ -1,5 +1,4 @@
 const colors = require('colors');
-const [firstNumber, secondNumber] = process.argv.slice(2)
 const {red, yellow, green} = colors
 
 let start = +process.argv[2];
